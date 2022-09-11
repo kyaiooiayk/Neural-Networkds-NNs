@@ -1,5 +1,5 @@
 # Artifical Neural Networks
-*List of templates focused on ANNs 9Artifical Neural Networks)*
+*List of templates focused on ANNs Artifical Neural Networks)*
 
 ## A note on the notebook rendering
 Each notebook has two versions (all python scripts are unaffected by this):
